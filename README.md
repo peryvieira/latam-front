@@ -1,3 +1,4 @@
+
 # latam-front
 
 ## Project setup
